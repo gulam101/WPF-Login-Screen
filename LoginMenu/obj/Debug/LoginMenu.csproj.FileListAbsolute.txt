@@ -1,0 +1,15 @@
+D:\Projects\C# Projects\WPF\LoginMenu\LoginMenu\bin\Debug\LoginMenu.exe.config
+D:\Projects\C# Projects\WPF\LoginMenu\LoginMenu\bin\Debug\LoginMenu.exe
+D:\Projects\C# Projects\WPF\LoginMenu\LoginMenu\bin\Debug\LoginMenu.pdb
+D:\Projects\C# Projects\WPF\LoginMenu\LoginMenu\obj\Debug\LoginMenu.csprojAssemblyReference.cache
+D:\Projects\C# Projects\WPF\LoginMenu\LoginMenu\obj\Debug\MainCodeEntry.g.cs
+D:\Projects\C# Projects\WPF\LoginMenu\LoginMenu\obj\Debug\DesignApp.g.cs
+D:\Projects\C# Projects\WPF\LoginMenu\LoginMenu\obj\Debug\LoginMenu_MarkupCompile.cache
+D:\Projects\C# Projects\WPF\LoginMenu\LoginMenu\obj\Debug\LoginMenu_MarkupCompile.lref
+D:\Projects\C# Projects\WPF\LoginMenu\LoginMenu\obj\Debug\MainCodeEntry.baml
+D:\Projects\C# Projects\WPF\LoginMenu\LoginMenu\obj\Debug\LoginMenu.g.resources
+D:\Projects\C# Projects\WPF\LoginMenu\LoginMenu\obj\Debug\LoginMenu.Properties.Resources.resources
+D:\Projects\C# Projects\WPF\LoginMenu\LoginMenu\obj\Debug\LoginMenu.csproj.GenerateResource.cache
+D:\Projects\C# Projects\WPF\LoginMenu\LoginMenu\obj\Debug\LoginMenu.csproj.CoreCompileInputs.cache
+D:\Projects\C# Projects\WPF\LoginMenu\LoginMenu\obj\Debug\LoginMenu.exe
+D:\Projects\C# Projects\WPF\LoginMenu\LoginMenu\obj\Debug\LoginMenu.pdb
