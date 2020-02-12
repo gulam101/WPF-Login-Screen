@@ -10,7 +10,10 @@
         Title="Login" Height="450" Width="500" FontSize="14" Background="#393F44">
 	<Border Background="#36383A" CornerRadius="20" Margin="20">
 		<StackPanel Margin="20">
-			<Label Content="Login" Foreground="White" FontSize="25" HorizontalAlignment="Center" />
+			<Label Content="Login" Foreground="White" FontSize="25" HorizontalAlignment="Center"/>
+			<Separator></Separator>
+			<Label Content="Username:" Foreground="White"></Label>
+			<Label Content="Password:" Foreground="White"></Label>
 		</StackPanel>
 	</Border>
 </Window>
