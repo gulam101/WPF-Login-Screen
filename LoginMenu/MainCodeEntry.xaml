@@ -12,8 +12,8 @@
 		<StackPanel Margin="20">
 			<Label Content="Login" Foreground="White" FontSize="25" HorizontalAlignment="Center"/>
 			<Separator></Separator>
-			<Label Content="Username:" Foreground="White"></Label>
-			<Label Content="Password:" Foreground="White"></Label>
+			<Label Content="Username:" Foreground="White" HorizontalAlignment="Center"></Label>
+			<Label Content="Password:" Foreground="White" HorizontalAlignment="Center"></Label>
 		</StackPanel>
 	</Border>
 </Window>
