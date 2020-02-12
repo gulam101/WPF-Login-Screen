@@ -5,8 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:LoginMenu"
         mc:Ignorable="d"
-        Title="Login" Height="300" Width="300" FontSize="14" Background="#393F44">
+		WindowStartupLocation="CenterScreen"
+		ResizeMode="NoResize"
+        Title="Login" Height="450" Width="500" FontSize="14" Background="#393F44">
 	<StackPanel>
-		<Label Content="Login" />
+		<Label Content="Login" Foreground="White" FontSize="25" HorizontalAlignment="Center" />
 	</StackPanel>
 </Window>
