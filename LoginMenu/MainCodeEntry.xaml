@@ -5,8 +5,8 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:LoginMenu"
         mc:Ignorable="d"
-        Title="Login" Height="300" Width="300" FontSize="14" Background="Azure">
-	<Grid>
-        
-    </Grid>
+        Title="Login" Height="300" Width="300" FontSize="14" Background="#393F44">
+	<StackPanel>
+		<Label Content="Login" />
+	</StackPanel>
 </Window>
