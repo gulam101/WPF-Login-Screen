@@ -52,6 +52,8 @@ If they click login they won't be able to do anything. I decided that I would ad
 - Step 4: Click run at the top and the application will run
 
 ### What I learned:
+- Better understanding of XAML
+- Better knowledge of WPF
 
 ### Constraints:
 
