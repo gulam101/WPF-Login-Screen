@@ -56,7 +56,7 @@ If they click login they won't be able to do anything. I decided that I would ad
 ### Development Changes:
 
 ### Resources:
-- StackOverFlow
+- https://stackoverflow.com/questions/6008001/adding-spaces-between-wpf-controls
 - YouTube
 - https://htmlcolorcodes.com/color-picker/
 
