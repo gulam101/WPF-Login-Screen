@@ -60,6 +60,7 @@ If they click login they won't be able to do anything. I decided that I would ad
 - YouTube
 - https://htmlcolorcodes.com/color-picker/
 - https://stackoverflow.com/questions/1545258/changing-the-start-up-location-of-a-wpf-window
+- https://stackoverflow.com/questions/935599/how-to-center-a-wpf-app-on-screen
 
 ### Screenshots:
 
