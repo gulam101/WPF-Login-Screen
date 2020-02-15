@@ -56,6 +56,9 @@ If they click login they won't be able to do anything. I decided that I would ad
 ### Development Changes:
 
 ### Resources:
+- StackOverFlow
+- YouTube
+- https://htmlcolorcodes.com/color-picker/
 
 ### Screenshots:
 
