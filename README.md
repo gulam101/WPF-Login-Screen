@@ -60,6 +60,10 @@ If they click login they won't be able to do anything. I decided that I would ad
 None.
 
 ### Improvements:
+This is the improvement section. I order all improvements by an ID which I can refer to at any time and I give a description of what that improvement should be.
+
+- Improvement ID:
+- Description: 
 
 ### Development Changes:
 Development changes tracks the changes that happend to the project. It orders it by date and description.
