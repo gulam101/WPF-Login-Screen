@@ -37,8 +37,11 @@ Login Menu for Database
 <a name="Credits"/>
 ### Description: 
  
+For this project, I built a login screen using XAML in WPF (Windows Presentation Foundation). I just wanted to build a project that is using a different technology.
 
 ### Prerequisites:
+- Windows 10 (OS)
+- Visual Studio 2019 (Recommended)
 
 ### Instructions:
 
