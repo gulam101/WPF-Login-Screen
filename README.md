@@ -59,6 +59,7 @@ If they click login they won't be able to do anything. I decided that I would ad
 - https://stackoverflow.com/questions/6008001/adding-spaces-between-wpf-controls
 - YouTube
 - https://htmlcolorcodes.com/color-picker/
+- https://stackoverflow.com/questions/1545258/changing-the-start-up-location-of-a-wpf-window
 
 ### Screenshots:
 
