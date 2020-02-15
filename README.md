@@ -37,7 +37,9 @@ Login Menu for Database
 <a name="Credits"/>
 ### Description: 
  
-For this project, I built a login screen using XAML in WPF (Windows Presentation Foundation). I just wanted to build a project that is using a different technology.
+For this project, I built a login screen using XAML in WPF (Windows Presentation Foundation). I just wanted to build a project that is using a different technology. When the user loads up the application they will see a login menu just created using XAML and nothing else. In XAML, I only created a border and panel that seperates the design allowing me to blend two dark colours with each other to make it look a modern login menu.
+
+If they click login they won't be able to do anything. I decided that I would add in a database.
 
 ### Prerequisites:
 - Windows 10 (OS)
