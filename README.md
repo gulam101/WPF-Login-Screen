@@ -46,6 +46,10 @@ If they click login they won't be able to do anything. I decided that I would ad
 - Visual Studio 2019 (Recommended)
 
 ### Instructions:
+- Step 1: Download Visual Studio (If you don't have already)
+- Step 2: Clone this project
+- Step 3: Once downloading is finished, open it up using Visual Studio
+- Step 4: Click run at the top and the application will run
 
 ### What I learned:
 
