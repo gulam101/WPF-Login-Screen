@@ -62,6 +62,7 @@ None.
 ### Improvements:
 
 ### Development Changes:
+Development changes tracks the changes that happend to the project. It orders it by date and description.
 
 ### Resources:
 - https://stackoverflow.com/questions/6008001/adding-spaces-between-wpf-controls
