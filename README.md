@@ -36,8 +36,7 @@ Login Menu for Database
 [Credits](#Credits)  
 <a name="Credits"/>
 ### Description: 
-
-This project I did for college was about increasing my knowledge in Windows Standard Form. I was 
+ 
 
 ### Prerequisites:
 
