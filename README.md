@@ -1,5 +1,6 @@
 # WPF-Login-Screen
-## Login Menu for Database
+
+## Login Menu - Windows Presentation Foundation
 
 # Table of Contents:
 
